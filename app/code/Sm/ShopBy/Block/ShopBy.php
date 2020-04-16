@@ -10,6 +10,7 @@
  
 namespace Sm\ShopBy\Block;
 
+
 class ShopBy extends \Magento\Framework\View\Element\Template
 {
 
