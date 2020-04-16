@@ -1,4 +1,5 @@
 <?php
+
 /**
  *
  * SM Shop By - Version 2.0.0
@@ -12,5 +13,7 @@ namespace Sm\ShopBy\Block;
 
 class ShopBy extends \Magento\Framework\View\Element\Template
 {
-    
+
 }
+//
+//
