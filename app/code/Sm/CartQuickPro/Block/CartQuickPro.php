@@ -10,6 +10,7 @@
  
 namespace Sm\CartQuickPro\Block;
 
+
 class CartQuickPro extends \Magento\Framework\View\Element\Template
 {
     /**
